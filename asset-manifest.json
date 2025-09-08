@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/data-scout-fm/static/css/main.c2b3dd9c.css",
-    "main.js": "/data-scout-fm/static/js/main.9d7fe7c0.js",
+    "main.css": "/data-scout-fm/static/css/main.1a2e6553.css",
+    "main.js": "/data-scout-fm/static/js/main.2bba3e53.js",
     "static/js/453.9debf9ec.chunk.js": "/data-scout-fm/static/js/453.9debf9ec.chunk.js",
     "static/media/data-scout-fm-logo.png": "/data-scout-fm/static/media/data-scout-fm-logo.863ee44ffe5a746d879f.png",
     "static/media/fm_custom_views.zip": "/data-scout-fm/static/media/fm_custom_views.b21bfa721efac645826d.zip",
     "index.html": "/data-scout-fm/index.html",
-    "main.c2b3dd9c.css.map": "/data-scout-fm/static/css/main.c2b3dd9c.css.map",
-    "main.9d7fe7c0.js.map": "/data-scout-fm/static/js/main.9d7fe7c0.js.map",
+    "main.1a2e6553.css.map": "/data-scout-fm/static/css/main.1a2e6553.css.map",
+    "main.2bba3e53.js.map": "/data-scout-fm/static/js/main.2bba3e53.js.map",
     "453.9debf9ec.chunk.js.map": "/data-scout-fm/static/js/453.9debf9ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2b3dd9c.css",
-    "static/js/main.9d7fe7c0.js"
+    "static/css/main.1a2e6553.css",
+    "static/js/main.2bba3e53.js"
   ]
 }
