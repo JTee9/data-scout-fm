@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/data-scout-fm/static/css/main.0f1304b0.css",
-    "main.js": "/data-scout-fm/static/js/main.242eb986.js",
+    "main.js": "/data-scout-fm/static/js/main.ed5e1085.js",
     "static/js/453.9debf9ec.chunk.js": "/data-scout-fm/static/js/453.9debf9ec.chunk.js",
     "static/media/data-scout-fm-logo.png": "/data-scout-fm/static/media/data-scout-fm-logo.863ee44ffe5a746d879f.png",
     "static/media/fm_custom_views.zip": "/data-scout-fm/static/media/fm_custom_views.b21bfa721efac645826d.zip",
     "index.html": "/data-scout-fm/index.html",
     "main.0f1304b0.css.map": "/data-scout-fm/static/css/main.0f1304b0.css.map",
-    "main.242eb986.js.map": "/data-scout-fm/static/js/main.242eb986.js.map",
+    "main.ed5e1085.js.map": "/data-scout-fm/static/js/main.ed5e1085.js.map",
     "453.9debf9ec.chunk.js.map": "/data-scout-fm/static/js/453.9debf9ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1304b0.css",
-    "static/js/main.242eb986.js"
+    "static/js/main.ed5e1085.js"
   ]
 }
